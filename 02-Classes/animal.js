@@ -16,7 +16,7 @@ var Animal = /** @class */ (function () {
     }
     // Método da Classe:   
     Animal.prototype.latir = function (tipoLatido) {
-        if (tipoLatido === void 0) { tipoLatido = 'Au Au'; }
+        if (tipoLatido === void 0) { tipoLatido = 'Au Au Au'; }
         console.log("O latido do " + this.nome + " \u00E9 " + tipoLatido + "!!");
     };
     return Animal;

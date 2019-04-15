@@ -1,7 +1,7 @@
 "use strict";
 /**
  * arquivo: funcionario.ts
- * Data: 20/02/2019
+ * Data: 15/04/2019
  * Autora: Glaucia Lemos
  * Descrição: exemplo em como criar classes em TypeScript
  */

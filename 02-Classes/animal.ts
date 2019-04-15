@@ -20,7 +20,7 @@ class Animal {
     }
     
     // Método da Classe:   
-    latir(tipoLatido: string = 'Au Au') {   
+    latir(tipoLatido: string = 'Au Au Au') {   
         console.log(`O latido do ${this.nome} é ${tipoLatido}!!`)    
     }      
 }
